@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651853178036",
+    "project_id": "sabeerstatustracker",
+    "storage_bucket": "sabeerstatustracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651853178036:android:97bfafcfc22b57ec26a3e1",
+        "android_client_info": {
+          "package_name": "com.example.sabeerstatustracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5PJs66o37qY_r_niYdxsItjS2QVl_yZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
